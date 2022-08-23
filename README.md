@@ -1,1 +1,1 @@
-# rules
+##rm -rf *
