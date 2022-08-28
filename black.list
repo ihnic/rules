@@ -1,7 +1,7 @@
 # 内容：这里是禁止翻墙的对象
 DOMAIN,plex.tv
 DOMAIN-SUFFIX,audiences.me
-
+DOMAIN-SUFFIX,btschool.club
 
 ############################
 #DOMAIN-SUFFIX：域名后缀匹配
