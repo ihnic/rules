@@ -2,6 +2,7 @@
 DOMAIN,plex.tv
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,btschool.club
+DOMAIN,tracker.m-team.cc
 
 ############################
 #DOMAIN-SUFFIX：域名后缀匹配
