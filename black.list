@@ -1,10 +1,10 @@
 # 内容：这里是禁止翻墙的对象
 #DOMAIN,plex.tv
-SRC-PORT：32400 #plex
-DOMAIN-SUFFIX,audiences.me #tracker以及官网
-DOMAIN-SUFFIX,btschool.club #tracker以及官网
-DOMAIN,tracker.m-team.cc #tracker
-DOMAIN,t.acg.rip  #tracker
+SRC-PORT:32400 #plex
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,btschool.club
+DOMAIN,tracker.m-team.cc
+DOMAIN,t.acg.rip
 ############################
 #DOMAIN-SUFFIX：域名后缀匹配
 #DOMAIN：域名匹配
