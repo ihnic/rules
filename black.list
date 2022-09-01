@@ -1,7 +1,6 @@
 # 内容：这里是禁止翻墙的对象
 #DOMAIN,plex.tv
 SRC-PORT,32400
-SRC-PORT,32401
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,btschool.club
 DOMAIN,tracker.m-team.cc
