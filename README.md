@@ -7,3 +7,10 @@
 ```
 http://10.0.0.251:25500/sub?target=clash&url=[订阅1]|[订阅2&config=https://raw.githubusercontent.com/nicholastz/rules/main/full_rules.ini
 ```
+
+
+
+* [QuantumultX规则]
+```
+https://raw.githubusercontent.com/nicholastz/rules/main/Quantumultx/Sample.conf
+```
