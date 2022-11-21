@@ -1,7 +1,8 @@
 # 内容：这里是禁止翻墙的对象
 
 #Plex服务
-DOMAIN,plex.tv
+DOMAIN-KEYWORD,plex.tv
+DOMAIN-KEYWORD,ihnic.com
 SRC-PORT,32400
 DST-PORT,32400
 
