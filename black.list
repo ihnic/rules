@@ -2,8 +2,13 @@
 
 #其他服务
 DOMAIN-KEYWORD,plex.tv
+<<<<<<< HEAD
 DOMAIN-KEYWORD,ihnic
 DOMAIN-KEYWORD,nwall
+=======
+DOMAIN-KEYWORD,ihnic.com
+DOMAIN-KEYWORD,nwall.xyz
+>>>>>>> 03b8c5283cf283fea79516889fb892742fe3a336
 SRC-PORT,32400
 DST-PORT,32400
 
