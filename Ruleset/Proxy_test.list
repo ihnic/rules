@@ -1,2 +1,2 @@
-# 需要翻墙的站点
-DOMAIN,ip138.com
+payload:
+  - DOMAIN,ip138.com
