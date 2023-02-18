@@ -1,9 +1,13 @@
-# 说明:
+# 规则:
 
-###  Clash规则：
+### Clash:
 
-链接:https://raw.githubusercontent.com/ihnic/rules/main/Config/Rules.ini
+``` 
+https://raw.githubusercontent.com/ihnic/rules/main/Config/Rules.ini
+```
 
-### QuantumultX规则：
+### QuantumultX:
 
-链接:https://raw.githubusercontent.com/ihnic/rules/main/Config/Quantumultx/Sample.conf
+```
+https://raw.githubusercontent.com/ihnic/rules/main/Config/Quantumultx/Sample.conf
+```
