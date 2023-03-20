@@ -9,3 +9,8 @@ DOMAIN-SUFFIX,bingapistatistics.com
 DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
+########2023-3-20新增
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,r.bing.com
+DOMAIN-SUFFIX,cn.bing.com
