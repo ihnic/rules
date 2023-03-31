@@ -13,7 +13,6 @@ DOMAIN,portcheck.transmissionbt.com
 # 其他站点
 DOMAIN-SUFFIX,ihnic.com
 DOMAIN-SUFFIX,nwall.xyz
-SRC-IP-CIDR,102.140.88.126
 
 ############################################################
 #DOMAIN-SUFFIX：域名后缀匹配
