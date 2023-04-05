@@ -1,6 +1,10 @@
 # 需要翻墙的站点
 DOMAIN,kp.m-team.cc
 DOMAIN,18board.link
+DOMAIN,api.tmdb.org
+DOMAIN,image.tmdb.org
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,www.opensubtitles.org
 #####################################
 #DOMAIN-SUFFIX：域名后缀匹配
 #DOMAIN：域名匹配
