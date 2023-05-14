@@ -4,6 +4,7 @@ DOMAIN,api.tmdb.org
 DOMAIN,image.tmdb.org
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,www.opensubtitles.org
+DOMAIN,mikanani.me
 # PT 站
 DOMAIN,sharkpt.net
 DOMAIN,audiences.me
