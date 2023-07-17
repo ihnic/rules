@@ -10,3 +10,9 @@ DOMAIN,sharkpt.net
 DOMAIN,audiences.me
 DOMAIN,kp.m-team.cc
 DOMAIN,piggo.me
+
+#Pikpak
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,config.mypikpak.com
+DOMAIN-SUFFIX,user.mypikpak.com
+DOMAIN-SUFFIX,static.mypikpak.com
