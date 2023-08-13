@@ -1,19 +1,20 @@
 # 需要翻墙的站点
-DOMAIN,18board.link
-DOMAIN,api.tmdb.org
-DOMAIN,image.tmdb.org
-DOMAIN-SUFFIX,fanart.tv
-DOMAIN-SUFFIX,www.opensubtitles.org
-DOMAIN,mikanani.me
-# PT 站
-DOMAIN,sharkpt.net
+DOMAIN-SUFFIX,18board.link
+DOMAIN-SUFFIX,mikanani.me
+
+# PT站
 DOMAIN,audiences.me
 DOMAIN,kp.m-team.cc
 DOMAIN,piggo.me
 
-#Pikpak
+# Pikpak
 DOMAIN,mypikpak.com
 DOMAIN,config.mypikpak.com
 DOMAIN,user.mypikpak.com
 DOMAIN,static.mypikpak.com
 DOMAIN,access.mypikpak.com
+
+# 电影媒体信息网站
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,opensubtitles.org
