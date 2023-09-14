@@ -1,7 +1,7 @@
 name: Wireguard
 desc: 通过Wireguard直连局域网
 
-append-proxy-groups:
+proxy-groups:
   - name: 🛡️ Wireguard
     type: select
     proxies:
