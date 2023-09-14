@@ -1,6 +1,11 @@
 name: Wireguard
 desc: 通过Wireguard直连局域网
 
+proxy-groups:
+  - name: 🛡️ Wireguard
+    type: select
+    proxies:
+      - DIRECT
 rules:
   - DST-PORT,32400,DIRECT
   - DST-PORT,8096,DIRECT
