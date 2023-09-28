@@ -1,0 +1,15 @@
+# NAME: Direct
+payload:
+  - DOMAIN,v4.plex.tv
+  - DOMAIN,t.audiences.me
+  - DOMAIN,tracker.m-team.cc
+  - DOMAIN,pt.btschool.club
+  - DOMAIN,hhanclub.top
+  - DOMAIN,hdpt.xyz
+  - DOMAIN,t.acg.rip
+  - DOMAIN,tracker.totheglory.im
+  - DOMAIN,hhanclub.top
+  - DOMAIN,portcheck.transmissionbt.com
+  - DOMAIN-SUFFIX,ihnic.com
+  - DOMAIN-SUFFIX,nwall.xyz
+  - DOMAIN-SUFFIX,ip138.com

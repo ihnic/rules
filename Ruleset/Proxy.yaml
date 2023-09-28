@@ -1,0 +1,15 @@
+# NAME: Proxy
+payload:
+  - DOMAIN-SUFFIX,18board.link
+  - DOMAIN-SUFFIX,mikanani.me
+  - DOMAIN,audiences.me
+  - DOMAIN,kp.m-team.cc
+  - DOMAIN,piggo.me
+  - DOMAIN,mypikpak.com
+  - DOMAIN,config.mypikpak.com
+  - DOMAIN,user.mypikpak.com
+  - DOMAIN,static.mypikpak.com
+  - DOMAIN,access.mypikpak.com
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,fanart.tv
+  - DOMAIN-SUFFIX,opensubtitles.org
