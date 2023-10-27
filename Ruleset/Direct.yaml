@@ -14,9 +14,9 @@ payload:
   - DOMAIN-SUFFIX,nwall.xyz
   - DOMAIN-SUFFIX,ip138.com
   ###### 桌面端程序
-  - PROCESS-NAME,Emby.Theater.exe,DIRECT
-  - PROCESS-NAME,electron.exe,DIRECT
-  - PROCESS-NAME,Plex.exe,DIRECT
-  - PROCESS-NAME,QtWebEngineProcess.exe,DIRECT
-  - DST-PORT,32400,DIRECT
-  - DST-PORT,8096,DIRECT
+  - PROCESS-NAME,Emby.Theater.exe
+  - PROCESS-NAME,electron.exe
+  - PROCESS-NAME,Plex.exe
+  - PROCESS-NAME,QtWebEngineProcess.exe
+  - DST-PORT,32400
+  - DST-PORT,8096
