@@ -50,7 +50,7 @@ payload:
 
 
   # tailscale derp服务器
-    - DOMAIN,derp1f.tailscale.com
+  - DOMAIN,derp1f.tailscale.com
   - DOMAIN,derp1g.tailscale.com
   - DOMAIN,derp1h.tailscale.com
   - DOMAIN,derp1i.tailscale.com
