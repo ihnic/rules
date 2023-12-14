@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ihnic.com
   - DOMAIN-SUFFIX,nwall.xyz
   - DOMAIN-SUFFIX,ip138.com
+  - DOMAIN-SUFFIX,ip.sb
  # - DOMAIN,dash.pandoranext.com  #潘多拉验证
  ###### 桌面端程序
   - PROCESS-NAME,Emby.Theater.exe
