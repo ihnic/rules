@@ -1,0 +1,4 @@
+# NAME: PT-Direct
+payload:
+- DOMAIN,tracker.m-team.io
+- DOMAIN,tracker.m-team.cc
