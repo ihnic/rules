@@ -50,3 +50,4 @@ payload:
   - DOMAIN,tracker.sharkpt.net   #鲨鱼
   - DOMAIN,tracker.hdchina.org   #瓷器
   - DOMAIN-KEYWORD,torrentleech   #torrentleech，不代理
+  - DOMAIN-KEYWORD,tleechreload   #torrentleech，不代理
