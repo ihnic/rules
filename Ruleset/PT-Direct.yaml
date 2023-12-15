@@ -1,4 +1,6 @@
 # NAME: PT-Direct
 payload:
-- DOMAIN,tracker.m-team.io
-- DOMAIN,tracker.m-team.cc
+ - DOMAIN,tracker.m-team.io   #馒头种子
+ - DOMAIN,tracker.m-team.cc   #馒头种子
+ - DOMAIN,fsm-us.eu.org      #飞天神面
+ - DOMAIN,creditracker.net   #飞天神面
