@@ -1,15 +1,45 @@
 # NAME: Proxy
 payload:
-  - DOMAIN-SUFFIX,18board.link
-  - DOMAIN-SUFFIX,mikanani.me
-  - DOMAIN,audiences.me
-  - DOMAIN,kp.m-team.cc
-  - DOMAIN,piggo.me
+#pikpak网盘
   - DOMAIN,mypikpak.com
   - DOMAIN,config.mypikpak.com
   - DOMAIN,user.mypikpak.com
   - DOMAIN,static.mypikpak.com
   - DOMAIN,access.mypikpak.com
+#媒体资源
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,opensubtitles.org
+  - DOMAIN-SUFFIX,18board.link
+  - DOMAIN-SUFFIX,mikanani.me
+#PT站
+  - DOMAIN,fsm.name   #飞天神面
+  - DOMAIN,audiences.me  #观众
+#  - DOMAIN,hhanclub.top  #憨憨
+  - DOMAIN,hhan.club   #憨憨
+# - DOMAIN,hdpt.xyz   #明教
+# - DOMAIN,pt.btschool.club   #学校
+ # - DOMAIN,ptchdbits.co   #彩虹岛
+  - DOMAIN,greatposterwall.com   #海豹
+  - DOMAIN,www.haidan.video  #海胆
+  - DOMAIN,www.hddolby.com   #高清杜比
+  - DOMAIN,hddolby.com   #高清杜比
+  - DOMAIN,hdhome.org   #家园
+  - DOMAIN,hdsky.me   #天空
+#  - DOMAIN,www.htpt.cc    #海棠
+  - DOMAIN,leaves.red   #红叶
+#  - DOMAIN,ourbits.club   #我堡
+  - DOMAIN,piggo.me   #猪猪
+  - DOMAIN,pt.keepfrds.com  #朋友
+  - DOMAIN,pterclub.com   #猫站
+  - DOMAIN,www.pthome.net   #铂金家
+  - DOMAIN,springsunday.net   #春天
+  - DOMAIN,totheglory.im   #TTG
+#  - DOMAIN,ultrahd.net   #ultrahd
+  - DOMAIN,xp.m-team.io   #馒头
+  - DOMAIN,kp.m-team.cc   #馒头
+  - DOMAIN,zhuque.in   #朱雀
+  - DOMAIN,sharkpt.net    #鲨鱼
+  - DOMAIN,hdchina.org    #瓷器
+  - DOMAIN,invites.fun    #药丸
+  - DOMAIN,skyeysnow.com  #天雪论坛
