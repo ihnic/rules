@@ -21,7 +21,7 @@ payload:
   - DOMAIN,t.audiences.me     #观众
   - DOMAIN,tracker.cinefiles.info   #观众
   - DOMAIN,tracker.hhan.club  #憨憨
-#  - DOMAIN,hhanclub.top  #憨憨，存在共用
+  - DOMAIN,hhanclub.top  #憨憨
   - DOMAIN-SUFFIX,hdpt.xyz   #明教
   - DOMAIN-SUFFIX,pt.btschool.club   #学校
   - DOMAIN-SUFFIX,ptchdbits.co   #彩虹岛

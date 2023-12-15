@@ -13,7 +13,9 @@ payload:
   - DOMAIN-SUFFIX,18board.link
   - DOMAIN-SUFFIX,mikanani.me
 #PT站
-  - DOMAIN,fsm.name   #飞天神面
+  - DOMAIN,fsm.name   #飞天神面,存在共用
+  - DOMAIN,fsm-static.eu.org  #飞天神面
+  - DOMAIN,api.fsm.name   #飞天神面
   - DOMAIN,audiences.me  #观众
 #  - DOMAIN,hhanclub.top  #憨憨
   - DOMAIN,hhan.club   #憨憨
@@ -32,14 +34,14 @@ payload:
   - DOMAIN,piggo.me   #猪猪
   - DOMAIN,pt.keepfrds.com  #朋友
   - DOMAIN,pterclub.com   #猫站
+  - DOMAIN,imgproxy.pterclub.com   #猫站
   - DOMAIN,www.pthome.net   #铂金家
   - DOMAIN,springsunday.net   #春天
   - DOMAIN,totheglory.im   #TTG
 #  - DOMAIN,ultrahd.net   #ultrahd
-  - DOMAIN,xp.m-team.io   #馒头
-  - DOMAIN,kp.m-team.cc   #馒头
+  - DOMAIN-KEYWORD.m-team   #馒头
   - DOMAIN,zhuque.in   #朱雀
-  - DOMAIN,sharkpt.net    #鲨鱼
-  - DOMAIN,hdchina.org    #瓷器
-  - DOMAIN,invites.fun    #药丸
-  - DOMAIN,skyeysnow.com  #天雪论坛
+  - DOMAIN-KEYWORD,sharkpt.net    #鲨鱼
+  - DOMAIN-KEYWORD,hdchina.org    #瓷器
+  - DOMAIN-KEYWORD,invites.fun    #药丸
+  - DOMAIN-KEYWORD,skyeysnow.com  #天雪论坛
