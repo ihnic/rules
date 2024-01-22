@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
 #  - DOMAIN,stun.syncthing.net
   - DOMAIN-KEYWORD,pandoranext  #潘多拉验证
-  - DOMAIN,app-measurement.com
  ###### 桌面端程序
   - PROCESS-NAME,Emby.Theater.exe
   - PROCESS-NAME,electron.exe
