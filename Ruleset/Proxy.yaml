@@ -19,6 +19,8 @@ payload:
   - DOMAIN,audiences.me  #观众
   - DOMAIN-KEYWORD,invites.fun    #药丸
   - DOMAIN-KEYWORD,skyeysnow.com  #天雪论坛
+# 其他站
+  - DOMAIN-SUFFIX,ghproxy.com
 # #  - DOMAIN,hhanclub.top  #憨憨
 #   - DOMAIN,hhan.club   #憨憨
 # # - DOMAIN,hdpt.xyz   #明教
