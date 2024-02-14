@@ -31,8 +31,8 @@ payload:
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,a6tkapp.com
   - DOMAIN-SUFFIX,a6tka29.com
-
-
+  - DOMAIN-SUFFIX,a6tkchat.com
+  	
 
 
 # #  - DOMAIN,hhanclub.top  #憨憨
