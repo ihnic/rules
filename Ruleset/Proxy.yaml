@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,dockerhub.com
 # 其他站
   - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,a6tkapp.com
 
 
 
