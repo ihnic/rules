@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,ip138.com
   - DOMAIN-SUFFIX,ip.sb
 #  - DOMAIN,stun.syncthing.net
+  - DOMAIN-SUFFIX,api.day.app   #bark通知
   - DOMAIN-KEYWORD,pandoranext  #潘多拉验证
  ###### 桌面端程序
   - PROCESS-NAME,Emby.Theater.exe
@@ -15,7 +16,6 @@ payload:
   - PROCESS-NAME,QtWebEngineProcess.exe
   - DST-PORT,32400
   - DST-PORT,8096
-
 
 #PT站点:
   - DOMAIN,pt.btschool.club  #学校
