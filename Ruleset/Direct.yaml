@@ -52,3 +52,4 @@ payload:
   - DOMAIN,creditracker.net   #飞天神面
   - DOMAIN-KEYWORD,torrentleech   #torrentleech，不代理
   - DOMAIN-KEYWORD,tleechreload   #torrentleech，不代理
+	- DOMAIN,agsvpt.trackers.work     #AGSV
