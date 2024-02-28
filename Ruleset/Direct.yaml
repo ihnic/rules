@@ -14,6 +14,7 @@ payload:
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,Plex.exe
   - PROCESS-NAME,QtWebEngineProcess.exe
+  - PROCESS-NAME,tailscaled,DIRECT
   - DST-PORT,32400
   - DST-PORT,8096
 
