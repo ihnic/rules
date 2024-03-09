@@ -2,7 +2,7 @@
 payload:
   - DOMAIN,v4.plex.tv
   - DOMAIN,portcheck.transmissionbt.com
-  - DOMAIN-SUFFIX,ihnic.com
+#  - DOMAIN-SUFFIX,ihnic.com
   - DOMAIN-SUFFIX,nwall.xyz
   - DOMAIN-SUFFIX,ip138.com
   - DOMAIN-SUFFIX,ip.sb
