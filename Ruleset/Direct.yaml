@@ -1,5 +1,7 @@
 # NAME: Direct
 payload:
+  - DST-PORT,32400
+  - DST-PORT,8096
   - DOMAIN,v4.plex.tv
   - DOMAIN,portcheck.transmissionbt.com
   - DOMAIN-SUFFIX,ihnic.com
@@ -10,14 +12,13 @@ payload:
   - DOMAIN-SUFFIX,api.day.app   #bark通知
   - DOMAIN-KEYWORD,pandoranext  #潘多拉验证
   - DOMAIN,api4.ipify.org     #ip查询
+
  ###### 桌面端程序
   - PROCESS-NAME,Emby.Theater.exe
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,Plex.exe
   - PROCESS-NAME,QtWebEngineProcess.exe
   - PROCESS-NAME,tailscaled,DIRECT
- # - DST-PORT,32400
- # - DST-PORT,8096
 
 #PT站点:
   - DOMAIN,pt.btschool.club  #学校
