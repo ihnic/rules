@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,nwall.xyz
   - DOMAIN-SUFFIX,ip138.com
   - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,netbird.io
 #  - DOMAIN,stun.syncthing.net
   - DOMAIN-SUFFIX,api.day.app   #bark通知
   - DOMAIN-KEYWORD,pandoranext  #潘多拉验证
@@ -56,3 +57,4 @@ payload:
   - DOMAIN-KEYWORD,torrentleech   #torrentleech，不代理
   - DOMAIN-KEYWORD,tleechreload   #torrentleech，不代理
   - DOMAIN,agsvpt.trackers.work   #AGSV
+
