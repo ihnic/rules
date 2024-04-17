@@ -12,7 +12,6 @@ payload:
 #  - DOMAIN,stun.syncthing.net
   - DOMAIN-SUFFIX,api.day.app   #bark通知
   - DOMAIN-KEYWORD,pandoranext  #潘多拉验证
-  - DOMAIN-KEYWORD,adspower
   - DOMAIN,api4.ipify.org     #ip查询
 
  ###### 桌面端程序
