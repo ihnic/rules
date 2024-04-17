@@ -6,7 +6,6 @@ payload:
   - DOMAIN,user.mypikpak.com
   - DOMAIN,static.mypikpak.com
   - DOMAIN,access.mypikpak.com
-  - DOMAIN-KEYWORD,adspower
 #媒体资源
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,fanart.tv
