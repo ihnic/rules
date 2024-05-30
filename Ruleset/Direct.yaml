@@ -1,7 +1,7 @@
 # NAME: Direct
 payload:
-  - DST-PORT,32400
-  - DST-PORT,8096
+ # - DST-PORT,32400
+#  - DST-PORT,8096
   - DOMAIN,v4.plex.tv
   - DOMAIN,portcheck.transmissionbt.com
   - DOMAIN-SUFFIX,ihnic.com
