@@ -43,7 +43,7 @@ DOMAIN-KEYWORD,totheglory #听听歌
 DOMAIN-KEYWORD,ultrahd 
 DOMAIN-KEYWORD,hdchina #瓷
 DOMAIN-KEYWORD,ourbits #我堡
-DOMAIN-KEYWORD,springsunday #春天
+
 #  DOMAIN-KEYWORD,zhuque #朱雀
 DOMAIN-KEYWORD,azusa #梓喵
 DOMAIN-KEYWORD,pttime #时间
@@ -70,3 +70,5 @@ DOMAIN,tracker.m-team.cc
 DOMAIN,tracker.piggo.me
 DOMAIN,t.hdhome.org
 DOMAIN,t.audiences.me
+DOMAIN,tracker-public.tjupt.org
+DOMAIN,on.springsunday.net
