@@ -1,18 +1,61 @@
 # Plex直连
 DOMAIN,v4.plex.tv
-#PT站
-DOMAIN,t.audiences.me
-DOMAIN,tracker.m-team.cc
-DOMAIN,pt.btschool.club
-DOMAIN,hhanclub.top
-DOMAIN,hdpt.xyz
-DOMAIN,t.acg.rip
-DOMAIN,tracker.totheglory.im
-DOMAIN,hhanclub.top
+DST-PORT,32400
+#DST-PORT,8096
+DOMAIN,v4.plex.tv
 # Transmission
 DOMAIN,portcheck.transmissionbt.com
-# 其他站点
 DOMAIN-SUFFIX,ihnic.com
 DOMAIN-SUFFIX,nwall.xyz
 DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,netbird.io
+# DOMAIN,stun.syncthing.net
+DOMAIN-SUFFIX,api.day.app   #bark通知
+DOMAIN-KEYWORD,pandoranext  #潘多拉验证
+DOMAIN,api4.ipify.org     #ip查询
+
+###### 桌面端程序
+PROCESS-NAME,Emby.Theater.exe
+PROCESS-NAME,electron.exe
+PROCESS-NAME,Plex.exe
+PROCESS-NAME,QtWebEngineProcess.exe
+PROCESS-NAME,tailscaled,DIRECT
+
+#PT站点:
+DOMAIN,pt.btschool.club  #学校
+DOMAIN,hdpt.xyz
+DOMAIN,t.acg.rip
+DOMAIN-SUFFIX,open.cd #皇后
+DOMAIN-KEYWORD,piggo #猪猪
+DOMAIN-KEYWORD,hddolby #杜比
+DOMAIN-KEYWORD,hdsky #天空
+DOMAIN-KEYWORD,chdbits #岛
+DOMAIN-KEYWORD,azurewebsites #月月
+DOMAIN-KEYWORD,keepfrds #月月
+DOMAIN-KEYWORD,leaves #红叶
+DOMAIN-KEYWORD,hdhome #家园
+DOMAIN-KEYWORD,pterclub #猫
+DOMAIN-KEYWORD,audiences #观众
+DOMAIN-KEYWORD,cinefiles #观众
+DOMAIN-KEYWORD,m-team #馒头
+DOMAIN-KEYWORD,totheglory #听听歌
+DOMAIN-KEYWORD,ultrahd 
+DOMAIN-KEYWORD,hdchina #瓷
+DOMAIN-KEYWORD,ourbits #我堡
+DOMAIN-KEYWORD,springsunday #春天
+#  DOMAIN-KEYWORD,zhuque #朱雀
+DOMAIN-KEYWORD,azusa #梓喵
+DOMAIN-KEYWORD,pttime #时间
+DOMAIN-KEYWORD,haidan #海胆
+DOMAIN-KEYWORD,htpt #海棠
+DOMAIN-KEYWORD,hdtime #时光
+DOMAIN-KEYWORD,kamept
+DOMAIN-KEYWORD,monikadesign #莫妮卡
+DOMAIN-KEYWORD,hhanclub.top #憨憨
+DOMAIN-KEYWORD,tracker.hhan.club #憨憨
+DOMAIN,fsm-us.eu.org      #飞天神面
+DOMAIN,creditracker.net   #飞天神面
+DOMAIN-KEYWORD,torrentleech   #torrentleech，不代理
+DOMAIN-KEYWORD,tleechreload   #torrentleech，不代理
+DOMAIN,agsvpt.trackers.work   #AGSV

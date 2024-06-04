@@ -1,20 +1,33 @@
-# 需要翻墙的站点
-DOMAIN-SUFFIX,18board.link
-DOMAIN-SUFFIX,mikanani.me
-
-# PT站
-DOMAIN,audiences.me
-DOMAIN,kp.m-team.cc
-DOMAIN,piggo.me
-
-# Pikpak
+#pikpak网盘
 DOMAIN,mypikpak.com
 DOMAIN,config.mypikpak.com
 DOMAIN,user.mypikpak.com
 DOMAIN,static.mypikpak.com
 DOMAIN,access.mypikpak.com
-
-# 电影媒体信息网站
+#媒体资源
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,opensubtitles.org
+DOMAIN-SUFFIX,18board.link
+DOMAIN-SUFFIX,mikanani.me
+#PT站
+DOMAIN,fsm.name   #飞天神面,存在共用
+DOMAIN,fsm-static.eu.org  #飞天神面
+DOMAIN,api.fsm.name   #飞天神面
+DOMAIN,audiences.me  #观众
+DOMAIN-KEYWORD,invites.fun    #药丸
+DOMAIN-KEYWORD,skyeysnow.com  #天雪论坛
+#Docker
+DOMAIN,d1q6f0aelx0por.cloudfront.net
+DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,d36jcksde1wxzq.cloudfront.net
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com
+# 其他站
+DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,a6tkapp.com
+DOMAIN-SUFFIX,a6tka29.com
+DOMAIN-SUFFIX,a6tkchat.com
+DOMAIN-SUFFIX,a6tkapi1.com
