@@ -11,12 +11,16 @@ DOMAIN-SUFFIX,opensubtitles.org
 DOMAIN-SUFFIX,18board.link
 DOMAIN-SUFFIX,mikanani.me
 #PT站
-DOMAIN,fsm.name   #飞天神面,存在共用
-DOMAIN,fsm-static.eu.org  #飞天神面
-DOMAIN,api.fsm.name   #飞天神面
-DOMAIN,audiences.me  #观众
-DOMAIN-KEYWORD,invites.fun    #药丸
-DOMAIN-KEYWORD,skyeysnow.com  #天雪论坛
+#飞天神面
+DOMAIN,fsm.name
+DOMAIN,fsm-static.eu.org
+DOMAIN,api.fsm.name
+#观众
+DOMAIN,audiences.me
+#药丸
+DOMAIN-KEYWORD,invites.fun
+#天雪论坛
+DOMAIN-KEYWORD,skyeysnow.com
 #Docker
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
