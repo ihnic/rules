@@ -24,6 +24,7 @@ PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,tailscaled,DIRECT
 
 #PT站点:
+DOMAIN-KEYWORD,sehuatang
 #学校
 DOMAIN,pt.btschool.club
 DOMAIN,hdpt.xyz
