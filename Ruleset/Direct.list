@@ -19,6 +19,7 @@ DOMAIN,api4.ipify.org
 ###### 桌面端程序
 PROCESS-NAME,Emby.Theater.exe
 PROCESS-NAME,electron.exe
+PROCESS-NAME,Plex
 PROCESS-NAME,Plex.exe
 PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,tailscaled,DIRECT
