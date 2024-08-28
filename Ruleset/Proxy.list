@@ -36,3 +36,13 @@ DOMAIN-SUFFIX,a6tkapp.com
 DOMAIN-SUFFIX,a6tka29.com
 DOMAIN-SUFFIX,a6tkchat.com
 DOMAIN-SUFFIX,a6tkapi1.com
+
+#群晖
+DOMAIN,global.synologydownload.com
+#Synology 的下载服务
+
+DOMAIN,api.insight.synology.com
+#Synology 提供的一种远程监控和管理服务，用于收集设备性能数据、健康状况和其他信息
+
+DOMAIN,subscribe.insight.synology.com
+#用户订阅通知、更新，或发送有关设备状态的消息
