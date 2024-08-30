@@ -7,6 +7,8 @@ DOMAIN,me.plexapp.com
 DOMAIN,tvthemes.plexapp.com
 DOMAIN,scrobbles.plex.tv
 
+#机场
+DOMAIN,rabbitzone.pro
 #pikpak网盘
 DOMAIN,mypikpak.com
 DOMAIN,config.mypikpak.com
