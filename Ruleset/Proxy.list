@@ -4,6 +4,8 @@ DOMAIN,metadata-static.plex.tv
 DOMAIN,images.plex.tv
 DOMAIN,downloads.plex.tv
 DOMAIN,me.plexapp.com
+DOMAIN,tvthemes.plexapp.com
+DOMAIN,scrobbles.plex.tv
 
 #pikpak网盘
 DOMAIN,mypikpak.com
