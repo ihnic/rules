@@ -25,6 +25,10 @@ PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,tailscaled,DIRECT
 
 #PT站点:
+#
+DOMAIN-KEYWORD,tracker
+#萝莉
+DOMAIN,tracker.ilolicon.cc
 #学校
 DOMAIN,pt.btschool.club
 DOMAIN,hdpt.xyz
