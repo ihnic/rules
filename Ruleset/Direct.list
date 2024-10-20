@@ -27,6 +27,8 @@ PROCESS-NAME,tailscaled,DIRECT
 #PT站点:
 #
 DOMAIN-KEYWORD,tracker
+#柠檬
+DOMAIN,tracker01.ilovelemonhd.me
 #萝莉
 DOMAIN,tracker.ilolicon.cc
 #学校
@@ -107,3 +109,4 @@ DOMAIN,t.hdhome.org
 DOMAIN,t.audiences.me
 DOMAIN,tracker-public.tjupt.org
 DOMAIN,on.springsunday.net
+
