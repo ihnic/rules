@@ -17,6 +17,7 @@ DOMAIN,static.mypikpak.com
 DOMAIN,access.mypikpak.com
 #媒体资源
 DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,opensubtitles.org
 DOMAIN-SUFFIX,18board.link
