@@ -7,6 +7,8 @@ DOMAIN,me.plexapp.com
 DOMAIN,tvthemes.plexapp.com
 DOMAIN,scrobbles.plex.tv
 DOMAIN,registry.npmjs.org
+#AI
+DOMAIN-KEYWORD,x.ai
 #机场
 DOMAIN,rabbitzone.pro
 #pikpak网盘
