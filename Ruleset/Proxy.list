@@ -7,6 +7,16 @@ DOMAIN,me.plexapp.com
 DOMAIN,tvthemes.plexapp.com
 DOMAIN,scrobbles.plex.tv
 DOMAIN,registry.npmjs.org
+#AV
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,faleno.jp
+DOMAIN-SUFFIX,avbase.net
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,av-league.com
+DOMAIN-SUFFIX,aventertainments.com
+DOMAIN-SUFFIX,dahlia-av.jp
+DOMAIN-SUFFIX,jav321.com
+
 #AI
 DOMAIN-KEYWORD,x.ai
 #机场
