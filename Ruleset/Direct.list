@@ -1,6 +1,6 @@
 # Plex直连
 DOMAIN,v4.plex.tv
-DST-PORT,32400
+#DST-PORT,32400
 #DST-PORT,8096
 DOMAIN,v4.plex.tv
 # Transmission
